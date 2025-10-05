@@ -39,4 +39,4 @@ mini-gpt:
  Неплохая кухня, большой выбор блюд. Персонал - всегда прислушиваются и попахти бокалы раки хватает. 
  Сегодня они покорили, видимо уютный хамит отлично пива и отменные в обламаете в осно м дома:!!!
  
- P.S : use google translate to see th emeaning but its not so good as it must be
+ P.S : use google translate to see the meaning but its not so good as it should be
