@@ -7,4 +7,5 @@ model created based on MinGPT from https://github.com/karpathy/minGPT with small
 then used same dataset to fine tune Qwen3-0.6B model from https://huggingface.co/Qwen/Qwen3-0.6B for 2 Epochs 
 
 🎯 Key Features
+
 Automatically generate positives reviews 
