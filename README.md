@@ -23,9 +23,9 @@ Additional points:
 
 1- Use file russian_comments_corrected-2.txt for miniGPT 
 
-2- Use file russian_comments_corrected.txt  fpr Qwen3-Tunned
+2- Use file russian_comments_corrected.txt  for Qwen3-Tunned  or just get Qwen3.csv file from google drive link above and skip the step of proccessing data
 
-3- For miniGPT with 4080 super it took around 80-90 to train 120,000 epochs (did to be sure that cant get better result))! )
+3- For miniGPT with 4080 super it took around 80-90 minutes to train 120,000 epochs (did to be sure that cant get better result))! )
 
 4- Fine tunning Qwen for data(which has 38296 lines) took 1 hour 25 minutes 2 epochs
 
