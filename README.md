@@ -27,7 +27,7 @@ Additional points:
 
 3- For miniGPT with 4080 super it took around 80-90 minutes to train 120,000 epochs (did to be sure that cant get better result))! )
 
-4- Fine tunning Qwen for data(which has 38296 lines) took 1 hour 25 minutes 2 epochs
+4- Fine tunning Qwen for data(which has 38296 lines) took 1 hour 25 minutes 2 epochs (fine tunned with Unsloth)
 
 as shown below the fine tunned model gives much better output (as was expected) but it was cool to try both for me!
 
